@@ -1,2 +1,2 @@
 # automatic-engine
-Automation stuff combining Google scripts and Trello API.
+A repository for scripts to generate paintings.
